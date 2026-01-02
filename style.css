@@ -31,7 +31,7 @@
     left: 20%;
 }
 .arena .knight {
-    width: 40px;
+    width: 40px; 
     height: 80px;
     position: absolute;
     bottom: 42px; /* */
